@@ -1,7 +1,7 @@
 Hi 👋 My name is Victor
 ==========================
 
-I am a business graduate and student at [42 | Rio](https://42.rio/), a Software Engineering school that have [42 campus in 25 countries](https://www.42network.org/42-schools/).
+I am a Business graduate and student at [42 | Rio](https://42.rio/), a Software Engineering school that have [42 campus in 25 countries](https://www.42network.org/42-schools/).
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * 🧠  I'm learning C programming language
